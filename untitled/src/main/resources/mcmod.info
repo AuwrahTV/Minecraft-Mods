@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "auwrahtv",
+        "name": "AuwrahTV",
+        "description": "Simple mod by AuwrahTV",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
